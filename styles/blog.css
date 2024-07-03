@@ -1,4 +1,8 @@
-p{
+.peragraph{
     background-color: aqua;
+    margin-top: 10px;
+}
+p{
+    background-color: cyan;
     margin-top: 10px;
 }
